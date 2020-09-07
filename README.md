@@ -11,7 +11,9 @@
 Необходимо проверить и внедрить программый код.
 
 В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+
 Используем предоставленный код разрабочиками:
+
 public class Main {
   public static void main(String[] args) {
     double regularBonus = 0.3;
